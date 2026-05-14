@@ -6,37 +6,37 @@ import time
 # ─────────────────────────────────────────────
 
 messages = {
-    "Mabel": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
 """
     },
-    "Joshua": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
 """
     },
-    "Faith": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
 """
     },
-    "Mummy": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
 """
     },
-    "Daddy": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
 """
     },
-    "Mercy": {
+    "Name": {
         "phone": "",
         "message": """
 paste message here
